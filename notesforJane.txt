@@ -1,0 +1,4 @@
+Here is what you will learn
+
+git branch --track <branch name> this command will sync the local branch with remote
+git checkout <branch name>  this will switch branches
